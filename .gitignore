@@ -1,0 +1,4 @@
+.vscode/settings.json
+checkers/__pycache__/__init__.cpython-38.pyc
+checkers/__pycache__/board.cpython-38.pyc
+checkers/__pycache__/constants.cpython-38.pyc
